@@ -18,9 +18,9 @@ Web dev curriculum for codex
 
 * Advance HTML tags (img , audio , etc...)
     - image, audio etc...
+* Begin with some advance html tags like image, audio, video, hyperlink, table, bold/italic/underline, div,id, span, class.
 * Intro to CSS
-    - selectors colors,background, fonts
-* Begin with some advance html tags like image, audio, video, hyperlink, table, bold/italic/underline, div, id.
+    - methos to insert CSS(External SS,Internal SS,Inline Style),selectors colors,background, fonts
 * Introduce CSS show how to select in css, basic css properties like color, background, fonts, text align, text transform, text decoration
 
     css properties : http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html
