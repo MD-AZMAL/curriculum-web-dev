@@ -38,10 +38,10 @@ Web dev curriculum for codex
     
     css units: https://www.tutorialspoint.com/css/css_measurement_units.htm
     
-    css box model : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+    css box model mdn : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
     
-                    https://www.w3schools.com/css/css_boxmodel.asp
-   
+    css box model w3 : https://www.w3schools.com/css/css_boxmodel.asp
+                      
 # Week 2 : Intermediate CSS
 ## Day 1
 
