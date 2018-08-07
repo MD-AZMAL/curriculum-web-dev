@@ -1,5 +1,4 @@
-# curriculum-web-dev
-Web dev curriculum for codex
+# **Web Development Curriculum - CODEX**
 
 ## Day 1
 ---
