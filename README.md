@@ -1,9 +1,8 @@
 # curriculum-web-dev
 Web dev curriculum for codex
 
-# Week 1 : HTML and CSS Fundamentals
 ## Day 1
-
+---
 * Intro to HTML
     - basic html workflow and tags 
     - begin with html tags
@@ -15,7 +14,7 @@ Web dev curriculum for codex
     html tags : https://www.w3schools.com/tags/ref_byfunc.asp
 
 ## Day 2
-
+---
 * Advance HTML tags (img , audio , etc...)
     - image, audio etc...
 * Begin with some advance html tags like image, audio, video, hyperlink, table, bold/italic/underline, div,id, span, class.
@@ -26,7 +25,7 @@ Web dev curriculum for codex
     css properties : http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html
 
 ## Day 3
-
+---
 * CSS advance selectors, Pseudo-classes and elements.
 * CSS Units px, ems , rems, percentage
 * Box model
@@ -42,16 +41,15 @@ Web dev curriculum for codex
     
     css box model w3 : https://www.w3schools.com/css/css_boxmodel.asp
                       
-# Week 2 : Intermediate CSS
-## Day 1
-
+## Day 4
+---
 * HTML forms and styling it
 * Show the HTML form elements and style them introducing html form tag and css properties width,max-width, use margin padding border
 
     HTML form elements: https://www.w3schools.com/html/html_forms.asp
     
-## Day 2
-
+## Day 5
+---
 * CSS floating
 * Navbars
     non responsive navbars
@@ -60,8 +58,9 @@ Web dev curriculum for codex
     css navbar : https://www.w3schools.com/css/css_navbar.asp
 
     css floating : https://developer.mozilla.org/en-US/docs/Web/CSS/float
-## Day 3
 
+## Day 6
+---
 * Responsive CSS
     * media queries
     * CSS Positioning (flexbox)
@@ -78,24 +77,25 @@ Web dev curriculum for codex
     css text shadow : https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow 
 
 
-# Week 3 : Advance CSS and Intro to Javascript
-## Day 1
-
+## Day 7
+---
 * Javascript fundamentals
 * Conditionals
 * Introduce to javascript , primitive types in javascript,null and undefined, mathematical operations with multiple types, show the use of conditionals if-else
 
     javascript fundamentals : https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-## Day 2
 
+## Day 8
+---
 * Flow Control and loops
 * show looping and flow control , for loops , forEach loops, explain asynchronous javascript
 
     javascript loops : https://www.w3schools.com/js/js_loop_for.asp
 
     javascript forEach loops : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for_each...in
-## Day 3
 
+## Day 9
+---
 * Functions and DOM Manipulation
 * Assignment
 * show the use of functions and callbacks, introduction to basic DOM manipulation such as changing basic css properties, give assignment (color block game)
@@ -104,16 +104,15 @@ Web dev curriculum for codex
 
     javascript functions : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
-# Week 4 Intermediate Javascript
-## Day 1
-
+## Day 10
+---
 * Advance DOM Manipulation and Event Listener
 * Show advance DOM manipulation using classlists methods, show event listeners (click, hover, mousemove etc)
 
     javascript event listeners : https://www.w3schools.com/js/js_htmldom_eventlistener.asp
 
-## Day 2
-
+## Day 11
+---
 * Javascript Arrays
 * Javascript Objects
 * Introduce to JS arrays and objects and basic functionality associated with them
@@ -121,8 +120,9 @@ Web dev curriculum for codex
     javascript arrays : https://www.w3schools.com/js/js_array_methods.asp
 
     javascript objects : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
-## Day 3
 
+## Day 12
+---
 * Classes and objects
 * Assignment
 * Introduce OOP concepts and basics of classes and objects in js
@@ -131,7 +131,7 @@ Web dev curriculum for codex
     javascript classes and objects : https://javascript.info/class
 
 ## POPULAR ONLINE RESOURCES
-
+---
 * mdn : https://developer.mozilla.org/en-US/
 * w3schools : https://www.w3schools.com/
 * javascript info : https://javascript.info/
